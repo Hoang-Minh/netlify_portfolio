@@ -221,7 +221,7 @@ function Resume() {
               align="center"
               style={{ color: "tomato" }}
             >
-              Invensys (later merged with Schenider Electric)
+              Invensys (merged with Schenider Electric later)
             </Typography>
             <Typography
               variant="subtitle1"
